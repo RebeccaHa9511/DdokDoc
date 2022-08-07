@@ -1,0 +1,28 @@
+PODS:
+  - Alamofire (5.6.1)
+  - Kingfisher (7.2.4)
+  - Pageboy (3.6.2)
+  - Tabman (2.12.0):
+    - Pageboy (~> 3.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Kingfisher
+  - Tabman
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - Pageboy
+    - Tabman
+
+SPEC CHECKSUMS:
+  Alamofire: 87bd8c952f9a4454320fce00d9cc3de57bcadaf5
+  Kingfisher: 2457be2121734e69e54a2312ecc0150eb9ae70b3
+  Pageboy: cf121b9dd48c63f3f281b2a9ec93d02e0f23879b
+  Tabman: 447a50447ed2869c39ab3b1a779327e43e067c4e
+
+PODFILE CHECKSUM: 8d3e618e6f2289184a6f324431e32a161a6f0376
+
+COCOAPODS: 1.11.3
