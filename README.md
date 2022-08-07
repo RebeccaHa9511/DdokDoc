@@ -1,7 +1,5 @@
-# DdokDoc
 
-
-## 👩🏻‍💻 iOS RC RISING TEST '사전과제' - Cloning 똑닥
+# 👩🏻‍💻 iOS RC RISING TEST '사전과제' - Cloning 똑닥 (DDokDoc)
 
 ⭐️ API: 다음 키워드로 검색 기능 활용. (searchTerm)
 
